@@ -2,3 +2,4 @@ name: venky
 job: student
 location: delhi
 state: ap
+laptop: yes
